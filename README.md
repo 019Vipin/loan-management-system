@@ -199,5 +199,5 @@ Implementation: Create a new "Navigator Agent" using tools like Selenium or Pupp
 
 # Author
 
-**Sonu Kumar**  
-Email: sonuk.ug23.ec@nitp.ac.in
+**Vipin Kumar**  
+Email:utkarshraj8409@gmail.com
